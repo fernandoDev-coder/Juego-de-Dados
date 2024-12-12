@@ -3,6 +3,9 @@
 ## ¡Bienvenido al juego de dados!
 
 Este proyecto es un sencillo juego de azar desarrollado en PHP. El objetivo del juego es elegir un número del 1 al 6, lanzar un dado, y si el resultado coincide con tu elección ganas.
+### Enlace a mi página de juegos
+
+[Link de la página](https://www.misjuegosonline.com)
 
 ### Características principales
 
